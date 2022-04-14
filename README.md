@@ -1,5 +1,6 @@
-### Olá 👋 me chamo Gabrielle Murat
+### Oi, sou a Gabrielle Murat.
 
+WIP:
 🔭 Atualmente estudo desenvolvimento web na Trybe.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
