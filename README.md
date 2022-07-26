@@ -183,12 +183,15 @@
   </ul>
 </details>
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 </p>
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Gabrielle-Murat}1212%2Fhit-counter" />
+<h6 align="center">
+	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Gabrielle-Murat}1212%2Fhit-counter" />
+	<p />
+	<img src="https://github.com/Gabrielle-Murat/Gabrielle-Murat/blob/output/github-contribution-grid-snake.svg" />
+</h6>
 
 
 <!-- Como eu fiz em markdown, mas tive problemas com alinhamento:
@@ -203,3 +206,5 @@
 <!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabrielle-murat/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gabriellemurat/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/gabrielle.murat) -->
 
 <!-- ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png) -->
+
+<!-- ![snake gif](https://github.com/Gabrielle-Murat/Gabrielle-Murat/blob/output/github-contribution-grid-snake.svg) -->
