@@ -49,9 +49,10 @@
 </h4>
 
 <h6 align="center">
+	<a href="https://github.com/Gabrielle-Murat/NodeJs-TalkerManager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabrielle-Murat&repo=Docker-ToDoList&theme=dracula" /></a>
+	<a href="https://github.com/Gabrielle-Murat/MySQL-OneForAll"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabrielle-Murat&repo=MySQL-OneForAll&theme=dracula" /></a>
+	<a href="https://github.com/Gabrielle-Murat/MySQL-AllForOne"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabrielle-Murat&repo=MySQL-AllForOne&theme=dracula" /></a>
   <a href="https://github.com/Gabrielle-Murat/Docker-ToDoList"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabrielle-Murat&repo=Docker-ToDoList&theme=dracula" /></a>
-  <a href="https://github.com/Gabrielle-Murat/MySQL-AllForOne"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabrielle-Murat&repo=MySQL-AllForOne&theme=dracula" /></a>
-  <a href="https://github.com/Gabrielle-Murat/MySQL-OneForAll"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabrielle-Murat&repo=MySQL-OneForAll&theme=dracula" /></a>
 <!--   <a href=""><img src="" /></a> -->
 </h6>
 
