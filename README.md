@@ -57,7 +57,7 @@
 
 -----------------------------------------------
 
-<details>
+<details open="open">
   <summary>Educação</summary>
   <ul>
     <p />
@@ -71,7 +71,7 @@
   </ul>
 </details><br />
 
-<details>
+<details open="open">
   <summary>Experiência</summary>
   <ul>
     <p />
