@@ -163,6 +163,7 @@
         <td>ORM</td>
         <td>
           <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
+	  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
         </td>
       </tr>
       <tr>
@@ -195,6 +196,14 @@
 	<p />
 	<img src="https://github.com/Gabrielle-Murat/Gabrielle-Murat/blob/output/github-contribution-grid-snake.svg" />
 </h6>
+
+
+<!-- 
+	Créditos:
+		Cards dinâmicos: https://github.com/anuraghazra/github-readme-stats
+		Badges: https://github.com/alexandresanlim/Badges4-README.md-Profile
+-->
+
 
 
 <!-- Como eu fiz em markdown, mas tive problemas com alinhamento:
