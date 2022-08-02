@@ -49,6 +49,7 @@
 </h4>
 
 <h6 align="center">
+	<a href="https://github.com/Gabrielle-Murat/NodeJs-BlogsAPI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabrielle-Murat&repo=NodeJs-BlogsAPI&theme=dracula" /></a>
 	<a href="https://github.com/Gabrielle-Murat/NodeJs-StoreManager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabrielle-Murat&repo=NodeJs-StoreManager&theme=dracula" /></a>
 	<a href="https://github.com/Gabrielle-Murat/NodeJs-TalkerManager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabrielle-Murat&repo=NodeJs-TalkerManager&theme=dracula" /></a>
 	<a href="https://github.com/Gabrielle-Murat/MySQL-OneForAll"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabrielle-Murat&repo=MySQL-OneForAll&theme=dracula" /></a>
