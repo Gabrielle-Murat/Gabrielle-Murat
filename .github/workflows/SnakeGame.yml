@@ -12,6 +12,8 @@ on:
   push:
     branches:
     - master
+    
+  
 
 jobs:
   generate:
@@ -25,7 +27,7 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ Gabrielle-Murat }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -36,7 +38,7 @@ jobs:
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: gabrielle-murat/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
