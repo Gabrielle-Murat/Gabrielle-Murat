@@ -15,9 +15,9 @@
   <p>Sobre mim:</p>
   
   <ul>
-    <li>✍️ Estou em transição de carreira</li>
-    <li>🔭 Atualmente estudo na <a href="https://www.betrybe.com/">Trybe</a></li>
-    <li>🌱 Estou cursando o módulo de Backend</li>
+    <li>🌱 Agora Dev Android Jr na <a href="https://www.webmotors.com.br/">Webmotors</a></li>
+    <li>✍️ Faz 1 ano que conclui minha transição de carreira</li>
+    <li>🔭 Finalizei meu curso dev full stack na <a href="https://www.betrybe.com/">Trybe</a></li>
     <li>🧑‍🎓 Sou formada em Química pela <a href="https://www.uff.br/">UFF</a></li>
   </ul>
 </h4>
@@ -65,7 +65,7 @@
   <ul>
     <p />
     <li>Desevolvimento Web Full Stack</li>
-    📆 jul/2021 - cursando<br />
+    📆 jul/2021 - jan/2023<br />
     🎓 <a href="https://www.betrybe.com/">Trybe</a>
     <p />
     <li>Química</li>
@@ -78,8 +78,12 @@
   <summary>Experiência</summary>
   <ul>
     <p />
+    <li>Webmotors - Dev Android Jr</li>
+    📆 out/2022 - atual<br />
+    <br>
     <li>Trybe</li>
-    📆 jul/2021 - cursando<br />
+    📆 jul/2021 - jan/2023<br />
+    <br>
     🎓 Tecnologias exploradas:
     <p />
     <table align="center">
@@ -132,6 +136,7 @@
       <tr>
         <td>IDE</td>
         <td>
+	  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
           <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
           <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
           <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -140,6 +145,7 @@
       <tr>
         <td>Linguagens</td>
         <td>
+	  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
           <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -170,6 +176,7 @@
       <tr>
         <td>OS</td>
         <td>
+	  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
           <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
         </td>
       </tr>
