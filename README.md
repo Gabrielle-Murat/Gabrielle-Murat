@@ -202,12 +202,12 @@
 	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Gabrielle-Murat}1212%2Fhit-counter" />
 	<a href="https://wakatime.com/@c6e58a24-4d2e-4734-957d-ae7674eea81c"><img src="https://wakatime.com/badge/user/c6e58a24-4d2e-4734-957d-ae7674eea81c.svg" alt="Total time coded since Jul 26 2022" /></a>
 	<p />
-	<img src="https://github.com/Gabrielle-Murat/Gabrielle-Murat/blob/output/github-contribution-grid-snake.svg" />
-<!-- 	<picture>
-	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/Gabrielle-Murat/output/github-contribution-grid-snake-dark.svg">
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/Gabrielle-Murat/output/github-contribution-grid-snake.svg">
-	  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/Gabrielle-Murat/output/github-contribution-grid-snake.svg">
-	</picture> -->
+<!-- 	<img src="https://github.com/Gabrielle-Murat/Gabrielle-Murat/blob/output/github-contribution-grid-snake.svg" /> -->
+	<picture>
+	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/Gabrielle-Murat/blob/output/github-contribution-grid-snake-dark.svg">
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/Gabrielle-Murat/blob/output/github-contribution-grid-snake.svg">
+	  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/Gabrielle-Murat/blob/output/github-contribution-grid-snake.svg">
+	</picture>
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 </h6>
