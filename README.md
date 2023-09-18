@@ -6,7 +6,7 @@
 </p>
 
 <h4 align="center">
-	Sou estudante de desenvolvimento web full stack
+	Dev Android Jr e eterna estudante de desenvolvimento
 </h4>
 
 -----------------------------------------------
